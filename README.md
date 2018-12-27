@@ -24,32 +24,32 @@ Daily Schedule (subject to change!)
 
 ## Schedule
 
-__ Day 1: __
+**Day 1:**
 
-__ Day 2: __
+**Day 2:**
 
-__ Day 3: __
+**Day 3:**
 
-__ Day 4: __
+**Day 4:**
 
-__ Day 5: __
+**Day 5:**
 
-__ Day 6: __
+**Day 6:**
 
-__ Day 7: __
+**Day 7:**
 
-__ Day 8: __
+**Day 8:**
 
-__ Day 9: __
+**Day 9:**
 
-__ Day 10: __
+**Day 10:**
 
-__ Day 11: __
+**Day 11:**
 
-__ Day 12: __
+**Day 12:**
 
-__ Day 13: __
+**Day 13:**
 
-__ Day 14 - Day 18: Project Building __
+**Day 14 - Day 18: Project Building**
 
-__ Day 19: Project Deployment, Student presentations 2-4pm (Room TBD) __
+**Day 19: Project Deployment, Student presentations 2-4pm (Room TBD)**
