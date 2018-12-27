@@ -9,12 +9,17 @@ Instructor: Jonathan Rosado
 TAs: Allan James Lapid & Rastko Sasic
 
 Email: jon.rosado42@gmail.com, ajlapid718@gmail.com, rastkosas@gmail.com
+
 ---
 
 Daily Schedule (subject to change!)
+
 10am - 12:30pm: Lecture, code-alongs, homework review and mini projects
+
 12:30pm - 1:15pm: Lunch
+
 1:15pm - 3pm: TBD
+
 3-4: Independent Work using internship stack
 
 ## Schedule
