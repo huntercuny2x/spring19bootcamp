@@ -1,9 +1,13 @@
 # Tech Talent Pipeline: Hunter College Summer 2019
 
 Class: Monday-Friday, 10am-4pm
+
 Dates: January 2th - January 24th (Class on January 12th & January 16th)
+
 Instructor: Jonathan Rosado
+
 TAs: Allan James Lapid & Rastko Sasic
+
 Email: jon.rosado42@gmail.com, ajlapid718@gmail.com, rastkosas@gmail.com
 ---
 
