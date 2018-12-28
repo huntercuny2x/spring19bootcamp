@@ -24,31 +24,35 @@ Daily Schedule (subject to change!)
 
 ## Schedule
 
-**Day 1:**
+**Day 1: Onboarding, Git/Github/Collaborative Software Development(Pair Programming)**
 
-**Day 2:**
+**Day 2: Javascript Basics Overview, Advanced JS Topics**
 
-**Day 3:**
+**Day 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging)**
 
-**Day 4:**
+**Day 4: TBD**
 
-**Day 5:**
+**Day 5: TBD**
 
-**Day 6:**
+**Day 6: TBD**
 
-**Day 7:**
+**Day 7: TBD**
 
-**Day 8:**
+**Day 8: TBD**
 
-**Day 9:**
+**Day 9: TBD**
 
-**Day 10:**
+**Day 10: TBD**
 
-**Day 11:**
+**Day 11: TBD**
 
-**Day 12:**
+**Day 12: TBD**
 
-**Day 13:**
+- Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
+
+**Day 13: TBD**
+
+- Workshop, _Technical Presentations,_ hosted by __Jason Wong__ (confirmation tbd)
 
 **Day 14 - Day 18: Project Building**
 
