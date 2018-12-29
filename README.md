@@ -25,8 +25,10 @@ Daily Schedule (subject to change!)
 ## Schedule
 
 **Day 1: Onboarding, Git/Github/Collaborative Software Development(Pair Programming)**
--[Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
--[Writing good commit messages](https://medium.com/compass-true-north/writing-good-commit-messages-fc33af9d6321)
+
+- [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
+
+- [Writing good commit messages](https://medium.com/compass-true-north/writing-good-commit-messages-fc33af9d6321)
 
 **Day 2: Javascript Basics Overview, Advanced JS Topics**
 
