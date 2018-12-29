@@ -18,7 +18,7 @@ Daily Schedule (subject to change!)
 
 12:30pm - 1:15pm: Lunch
 
-1:15pm - 3pm: TBD
+1:15pm - 3pm: Continuation of projects and/or Lecture, code-alongs
 
 3-4: Independent Work using internship stack
 
