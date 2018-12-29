@@ -1,4 +1,4 @@
-# Tech Talent Pipeline: Hunter College Summer 2019
+# Tech Talent Pipeline: Hunter College Spring 2019
 
 Class: Monday-Friday, 10am-4pm
 
