@@ -30,6 +30,8 @@ Daily Schedule (subject to change!)
 
 - [Writing good commit messages](https://medium.com/compass-true-north/writing-good-commit-messages-fc33af9d6321)
 
+- [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
 **Day 2: Javascript Basics Overview, Advanced JS Topics**
 
 **Day 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging)**
