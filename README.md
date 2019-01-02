@@ -40,7 +40,7 @@ Daily Schedule (subject to change!)
 
 **Day 2: Javascript Basics Overview, Advanced JS Topics**
 
- _Suggested Pre-Reading_
+ _Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more difficult topics that we will be covering)_ 
 
 - [Eloquent Javascript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 
