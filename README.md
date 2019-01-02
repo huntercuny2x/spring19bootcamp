@@ -32,6 +32,12 @@ Daily Schedule (subject to change!)
 
 - [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
+-[Introduction Slides]()
+
+-[Git and Github Slides]()
+
+-[Collaboration Workshop Assignment](https://docs.google.com/document/d/1K94PRD-EN19PtFY7T7ao0JZ0cyKkAlMEjMZ8_VyfTNk/edit?usp=sharing)
+
 **Day 2: Javascript Basics Overview, Advanced JS Topics**
 
 **Day 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging)**
