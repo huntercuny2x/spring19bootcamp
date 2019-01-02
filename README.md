@@ -2,7 +2,7 @@
 
 Class: Monday-Friday, 10am-4pm
 
-Dates: January 2th - January 24th (Class on January 12th & January 16th)
+Dates: January 2th - January 24th (Class on January 12th & January 19th)
 
 Instructor: Jonathan Rosado
 
