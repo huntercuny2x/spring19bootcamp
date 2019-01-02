@@ -64,8 +64,10 @@ Daily Schedule (subject to change!)
 
 **Day 13: TBD**
 
-- Workshop, _Technical Presentations,_ hosted by __Jason Wong__ (confirmation tbd)
-
 **Day 14 - Day 18: Project Building**
+
+**Day 14 (1/18/2018)**
+
+- Workshop 10am, _Technical Presentations,_ hosted by __Jason Wong__
 
 **Day 19: Project Deployment, Student presentations 2-4pm (Room TBD)**
