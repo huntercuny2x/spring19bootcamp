@@ -48,6 +48,12 @@ Daily Schedule (subject to change!)
 
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
 
+- [JavaScript! slide deck](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing)
+
+- [More JavaScript! slide deck](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing)
+
+- [Assignment #2](https://docs.google.com/document/d/1EezLzZk3OmCEF6GICIngtiU1NggznZtyYA4bsqjg5fo/edit#heading=h.oooip3m3scyd)
+
 **Day 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging)**
 
 _Suggested Pre-reading_
