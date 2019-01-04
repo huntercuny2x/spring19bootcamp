@@ -64,6 +64,10 @@ _Suggested Pre-reading_
 
 - [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
+- [DOM lecture slides](https://drive.google.com/file/d/14MVz8KCMbsi46oKaegnnYDVasrXy2NGT/view?usp=sharing)
+
+- [DOM / JS Assignment #3](https://drive.google.com/drive/u/0/my-drive)
+
 **Day 4: TBD**
 
 **Day 5: TBD**
