@@ -72,7 +72,11 @@ _Suggested Pre-reading_
 
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) => _Required Reading this weekend_
 
-- Install Node on your machines before Monday => [Node.js Website](https://nodejs.org/en/download/)
+- Install Node on your machines before Monday [Node.js Website](https://nodejs.org/en/download/)
+
+  - Choose your OS
+  
+  - Download the LTS version (most stable version of Node)
 
 **Day 5: Continuing React: External API Requests**
 
