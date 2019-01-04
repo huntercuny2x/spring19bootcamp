@@ -68,15 +68,17 @@ _Suggested Pre-reading_
 
 - [DOM / JS Assignment #3](https://drive.google.com/drive/u/0/my-drive)
 
-**Day 4: Intro to React**
+**Day 4: Intro to React/React Components**
 
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) => _Required Reading this weekend_
 
-**Day 5: Continuing React**
+- Install Node on your machines before Monday => [Node.js Website](https://nodejs.org/en/download/)
 
-**Day 6:**
+**Day 5: Continuing React: External API Requests**
 
-**Day 7: TBD**
+**Day 6: React Router Dom**
+
+**Day 7: Intro to Redux / React-Redux**
 
 **Day 8: TBD**
 
