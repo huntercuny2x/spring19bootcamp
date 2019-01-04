@@ -68,11 +68,13 @@ _Suggested Pre-reading_
 
 - [DOM / JS Assignment #3](https://drive.google.com/drive/u/0/my-drive)
 
-**Day 4: TBD**
+**Day 4: Intro to React**
 
-**Day 5: TBD**
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) _Required Reading this weekend_
 
-**Day 6: TBD**
+**Day 5: Continuing React**
+
+**Day 6: **
 
 **Day 7: TBD**
 
