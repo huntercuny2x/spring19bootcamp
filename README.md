@@ -70,11 +70,11 @@ _Suggested Pre-reading_
 
 **Day 4: Intro to React**
 
-- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) _Required Reading this weekend_
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) => _Required Reading this weekend_
 
 **Day 5: Continuing React**
 
-**Day 6: **
+**Day 6:**
 
 **Day 7: TBD**
 
