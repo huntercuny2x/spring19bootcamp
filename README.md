@@ -82,7 +82,7 @@ _Suggested Pre-reading_
   
   - Download the LTS version (most stable version of Node)
 
-**Day 5: Continuing React: External API Requests**
+**Day 5: Continuing React: External API Requests (AJAX / Fetch)**
 
 **Day 6: React Router Dom**
 
