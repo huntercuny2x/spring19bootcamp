@@ -72,6 +72,10 @@ _Suggested Pre-reading_
 
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) => _Required Reading this weekend_
 
+- ['this' Keyword MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) _Highly suggested Reading_
+
+- [Closures in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) _Highly suggested Reading_
+
 - Install Node on your machines before Monday [Node.js Website](https://nodejs.org/en/download/)
 
   - Choose your OS
