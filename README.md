@@ -82,6 +82,8 @@ _Suggested Pre-reading_
   
   - Download the LTS version (most stable version of Node)
   
+- [Class, 'this', and Template String slides](https://drive.google.com/file/d/1CnEmIPZNK1W4nQoc-GHQJHafvGPLkvOt/view?usp=sharing)
+
 - [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
 
 **Day 5: Continuing React: External API Requests (AJAX / Fetch)**
