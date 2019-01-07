@@ -90,6 +90,12 @@ _Suggested Pre-reading_
 
 **Day 5: Continuing React: External API Requests (AJAX / Fetch)**
 
+- [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html)
+
+- [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
 **Day 6: React Router Dom**
 
 **Day 7: Intro to Redux / React-Redux**
