@@ -81,6 +81,8 @@ _Suggested Pre-reading_
   - Choose your OS
   
   - Download the LTS version (most stable version of Node)
+  
+- [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
 
 **Day 5: Continuing React: External API Requests (AJAX / Fetch)**
 
