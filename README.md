@@ -90,11 +90,19 @@ _Suggested Pre-reading_
 
 **Day 5: Continuing React: External API Requests (AJAX / Fetch)**
 
-- [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html)
+- [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html) _Suggetsed Reading_
 
-- [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) _Suggetsed Reading_
 
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) _Suggetsed Reading_
+
+- Lecture slides
+
+  -[AJAX, fetch, and Axios](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing)
+  
+  -[Promises](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing)
+  
+  -[React Lifecycle](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing)
 
 **Day 6: React Router Dom**
 
