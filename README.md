@@ -88,7 +88,7 @@ _Suggested Pre-reading_
 
 - [Assignment #4: Contact Card and Decrement](https://docs.google.com/document/d/1oU4kDA9WtbauADOgWV-2EZPPV-SirW1p2RTWsWMZxh8/edit?usp=sharing)
 
-**Day 5: Continuing React: External API Requests (Asynchronicity / Fetch)**
+**Day 5: Continuing React: External API Requests (AJAX / Fetch)**
 
 - [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html)
 
