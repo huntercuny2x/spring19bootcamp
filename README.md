@@ -86,7 +86,7 @@ _Suggested Pre-reading_
 
 - [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
 
-- [Assignment #3: Contact Card and Decrement](https://docs.google.com/document/d/1oU4kDA9WtbauADOgWV-2EZPPV-SirW1p2RTWsWMZxh8/edit?usp=sharing)
+- [Assignment #4: Contact Card and Decrement](https://docs.google.com/document/d/1oU4kDA9WtbauADOgWV-2EZPPV-SirW1p2RTWsWMZxh8/edit?usp=sharing)
 
 **Day 5: Continuing React: External API Requests (AJAX / Fetch)**
 
