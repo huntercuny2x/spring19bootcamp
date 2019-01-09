@@ -106,6 +106,8 @@ _Suggested Pre-reading_
   
   - [React Events / Forms](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)
   
+ - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
+  
  - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
  
 
