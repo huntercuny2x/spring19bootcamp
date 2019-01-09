@@ -117,6 +117,8 @@ _Suggested Pre-reading_
 
 **Day 7: Intro to Redux / React-Redux**
 
+- [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux) <= _Excellent tutorial_
+
 **Day 8: TBD**
 
 **Day 9: TBD**
