@@ -119,9 +119,11 @@ _Suggested Pre-reading_
 
 **Day 7: REACT REVIEW DAY / Intro to Redux**
 
+- [GIPHY API Assignment](https://gist.github.com/johnnybee4e/9cc6d702f8771a7909b6ad97a79ef60b)
 
 **Day 8: Redux cont'd / React-Redux**
 
+- [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux) <= _Excellent tutorial_
 
 **Day 9: Intro to Node/Express**
 
