@@ -115,9 +115,12 @@ _Suggested Pre-reading_
 
 - [Zip/City API Exercise](https://gist.github.com/johnnybee4e/4cb228365742aaf50e8ff51728cd9c4b)
 
+- [React Router Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
+
 **Day 7: Intro to Redux / React-Redux**
 
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux) <= _Excellent tutorial_
+
 
 **Day 8: TBD**
 
