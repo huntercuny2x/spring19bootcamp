@@ -111,30 +111,29 @@ _Suggested Pre-reading_
  - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
  
 
-**Day 6: Zip/City API Exercise - Intro to React Router Dom**
+**Day 6: Zip/City API Exercise - Intro to React Router**
 
 - [Zip/City API Exercise](https://gist.github.com/johnnybee4e/4cb228365742aaf50e8ff51728cd9c4b)
 
 - [React Router Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-**Day 7: Intro to Redux / React-Redux**
-
-- [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux) <= _Excellent tutorial_
+**Day 7: REACT REVIEW DAY (GIPHY API) / Intro to Redux**
 
 
-**Day 8: TBD**
+**Day 8: Redux cont'd / React-Redux**
 
-**Day 9: TBD**
 
-**Day 10: TBD**
+**Day 9: Intro to Node/Express**
 
-**Day 11: TBD**
+**Day 10: Express/Postgres**
 
-**Day 12: TBD**
+**Day 11: Posgres/Sequelize**
+
+**Day 12: Sequelize/Auth**
 
 - Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
 
-**Day 13: TBD**
+**Day 13: General Review / Full Stack App**
 
 **Day 14 - Day 18: Project Building**
 
