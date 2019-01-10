@@ -117,7 +117,7 @@ _Suggested Pre-reading_
 
 - [React Router Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-**Day 7: REACT REVIEW DAY (GIPHY API) / Intro to Redux**
+**Day 7: REACT REVIEW DAY / Intro to Redux**
 
 
 **Day 8: Redux cont'd / React-Redux**
