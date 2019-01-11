@@ -117,13 +117,15 @@ _Suggested Pre-reading_
 
 - [React Router Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-**Day 7: REACT REVIEW DAY / Intro to Redux**
+**Day 7: REACT REVIEW DAY / **
 
 - [GIPHY API Assignment](https://gist.github.com/johnnybee4e/9cc6d702f8771a7909b6ad97a79ef60b)
 
-**Day 8: Redux cont'd / React-Redux**
+**Day 8: Redux / React-Redux**
 
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux) <= _Excellent tutorial_
+
+- [Redux / React-Redux Slides](https://drive.google.com/file/d/1_dnQBpqwaz4OFRi9MBZfVLgflmiiRqJW/view?usp=sharing)
 
 **Day 9: Intro to Node/Express**
 
