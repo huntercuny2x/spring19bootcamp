@@ -129,7 +129,15 @@ _Suggested Pre-reading_
 
 **Day 9: Intro to Node/Express**
 
+- [Intro to Node slides](https://drive.google.com/file/d/1C9unBMKGkQSTRIJxp57Djne49t_GJDyk/view?usp=sharing)
+
 - [NPM Slides](https://drive.google.com/file/d/1Y2fovo740KCzjqZo46kPeKU7403BtimH/view?usp=sharing)
+
+- [Intro to Express slides] (https://drive.google.com/file/d/1ro-gLIoVBapGHXQnNKqPrVyud0Zq-zRu/view?usp=sharing)
+
+- [Node Assignment](https://gist.github.com/johnnybee4e/d0b230a30e1323dd06155f951da5c803)
+
+- [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
 
 - [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
 
@@ -138,6 +146,8 @@ _Suggested Pre-reading_
 - [JavaScript Conference 2018: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
 
 **Day 10: Express/Postgres**
+
+- [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
 
 **Day 11: Posgres/Sequelize**
 
