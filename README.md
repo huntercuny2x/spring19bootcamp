@@ -133,7 +133,7 @@ _Suggested Pre-reading_
 
 - [NPM Slides](https://drive.google.com/file/d/1Y2fovo740KCzjqZo46kPeKU7403BtimH/view?usp=sharing)
 
-- [Intro to Express slides] (https://drive.google.com/file/d/1ro-gLIoVBapGHXQnNKqPrVyud0Zq-zRu/view?usp=sharing)
+- [Intro to Express slides](https://drive.google.com/file/d/1ro-gLIoVBapGHXQnNKqPrVyud0Zq-zRu/view?usp=sharing)
 
 - [Node Assignment](https://gist.github.com/johnnybee4e/d0b230a30e1323dd06155f951da5c803)
 
