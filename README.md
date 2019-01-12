@@ -129,6 +129,8 @@ _Suggested Pre-reading_
 
 **Day 9: Intro to Node/Express**
 
+- [NPM Slides](https://drive.google.com/file/d/1Y2fovo740KCzjqZo46kPeKU7403BtimH/view?usp=sharing)
+
 **Day 10: Express/Postgres**
 
 **Day 11: Posgres/Sequelize**
