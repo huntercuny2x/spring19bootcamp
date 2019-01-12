@@ -40,7 +40,7 @@ Daily Schedule (subject to change!)
 
 **Day 2: Javascript Basics Overview, Advanced JS Topics**
 
- _Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more difficult topics that we will be covering)_ 
+ _Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more difficult topics that we will be covering)_
 
 - [Eloquent Javascript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 
@@ -79,9 +79,9 @@ _Suggested Pre-reading_
 - Install Node on your machines before Monday [Node.js Website](https://nodejs.org/en/download/)
 
   - Choose your OS
-  
+
   - Download the LTS version (most stable version of Node)
-  
+
 - [Class, 'this', and Template String slides](https://drive.google.com/file/d/1CnEmIPZNK1W4nQoc-GHQJHafvGPLkvOt/view?usp=sharing)
 
 - [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
@@ -99,17 +99,17 @@ _Suggested Pre-reading_
 - Lecture slides
 
   - [AJAX, fetch, and Axios](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing)
-  
+
   - [Promises](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing)
-  
+
   - [React Lifecycle](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing)
-  
+
   - [React Events / Forms](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)
-  
+
  - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
-  
+
  - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
- 
+
 
 **Day 6: Zip/City API Exercise - Intro to React Router**
 
@@ -130,6 +130,12 @@ _Suggested Pre-reading_
 **Day 9: Intro to Node/Express**
 
 - [NPM Slides](https://drive.google.com/file/d/1Y2fovo740KCzjqZo46kPeKU7403BtimH/view?usp=sharing)
+
+- [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
+
+- [NodeJS: Module Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/) <= _Main Takeaway: A deeper understanding of Node's module system_
+
+- [JavaScript Conference 2018: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
 
 **Day 10: Express/Postgres**
 
