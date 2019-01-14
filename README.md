@@ -127,6 +127,8 @@ _Suggested Pre-reading_
 
 - [Redux / React-Redux Slides](https://drive.google.com/file/d/1_dnQBpqwaz4OFRi9MBZfVLgflmiiRqJW/view?usp=sharing)
 
+- [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
+
 **Day 9: Intro to Node/Express**
 
 - [Intro to Node slides](https://drive.google.com/file/d/1C9unBMKGkQSTRIJxp57Djne49t_GJDyk/view?usp=sharing)
@@ -150,6 +152,10 @@ _Suggested Pre-reading_
 - [Final Project Gist](https://gist.github.com/johnnybee4e/fad98a1d8115ca8186d1df8de524ec5a)
 
 - [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
+
+- [SQLBolt Tutorial](https://sqlbolt.com/)
+
+- [SQLZoo Tutorial](https://sqlzoo.net/)
 
 **Day 11: Posgres/Sequelize**
 
