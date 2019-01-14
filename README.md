@@ -147,6 +147,8 @@ _Suggested Pre-reading_
 
 **Day 10: Express/Postgres**
 
+- [Final Project Gist](https://gist.github.com/johnnybee4e/fad98a1d8115ca8186d1df8de524ec5a)
+
 - [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
 
 **Day 11: Posgres/Sequelize**
