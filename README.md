@@ -159,7 +159,7 @@ _Suggested Pre-reading_
 
 **Day 11: Posgres/Sequelize**
 
-**Day 12: Sequelize/Auth**
+**Day 12: Testing**
 
 - Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
 
