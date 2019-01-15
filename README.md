@@ -117,7 +117,7 @@ _Suggested Pre-reading_
 
 - [React Router Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-**Day 7: REACT REVIEW DAY / **
+**Day 7: REACT REVIEW DAY**
 
 - [GIPHY API Assignment](https://gist.github.com/johnnybee4e/9cc6d702f8771a7909b6ad97a79ef60b)
 
@@ -151,9 +151,9 @@ _Suggested Pre-reading_
 
 - Lecture Slides:
 
-  -[Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
+  - [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
   
-  -[node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
+  - [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
   
   - [REST API](https://drive.google.com/file/d/1P1Kjnd8YY5_gtd1JA14QPbdt69r9T7cb/view?usp=sharing)
 
