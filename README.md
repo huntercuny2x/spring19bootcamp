@@ -149,6 +149,14 @@ _Suggested Pre-reading_
 
 **Day 10: Express/Postgres**
 
+- Lecture Slides:
+
+  -[Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
+  
+  -[node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
+  
+  - [REST API](https://drive.google.com/file/d/1P1Kjnd8YY5_gtd1JA14QPbdt69r9T7cb/view?usp=sharing)
+
 - [Final Project Gist](https://gist.github.com/johnnybee4e/fad98a1d8115ca8186d1df8de524ec5a)
 
 - [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
