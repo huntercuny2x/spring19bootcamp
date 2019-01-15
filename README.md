@@ -159,6 +159,10 @@ _Suggested Pre-reading_
 
 **Day 11: Posgres/Sequelize**
 
+- [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
+
+- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
+
 **Day 12: Testing**
 
 - Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
