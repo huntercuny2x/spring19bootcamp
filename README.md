@@ -181,6 +181,10 @@ _Suggested Pre-reading_
 
 - Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
 
+- [Webpack and Babel slides](https://drive.google.com/file/d/1-uD7Kdnj5PwdW--vbmFYulNIPmuX8F2e/view?usp=sharing)
+
+- [Webpack/Babel assignment](https://gist.github.com/johnnybee4e/f6bbd3af290b8e0c131b387446ed8a51)
+
 **Day 13: Testing/Heroku**
 
 **Day 14 - Day 18: Project Building**
