@@ -117,7 +117,7 @@ _Suggested Pre-reading_
 
 - [React Router Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-**Day 7: REACT REVIEW DAY / **
+**Day 7: REACT REVIEW DAY**
 
 - [GIPHY API Assignment](https://gist.github.com/johnnybee4e/9cc6d702f8771a7909b6ad97a79ef60b)
 
@@ -149,6 +149,14 @@ _Suggested Pre-reading_
 
 **Day 10: Express/Postgres**
 
+- Lecture Slides:
+
+  - [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
+
+  - [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
+
+  - [REST API](https://drive.google.com/file/d/1P1Kjnd8YY5_gtd1JA14QPbdt69r9T7cb/view?usp=sharing)
+
 - [Final Project Gist](https://gist.github.com/johnnybee4e/fad98a1d8115ca8186d1df8de524ec5a)
 
 - [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
@@ -165,10 +173,15 @@ _Suggested Pre-reading_
 
 
 **Day 12: Sequelize/Auth**
+- [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
+
+- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
+
+**Day 12: Webpack/Babel**
 
 - Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
 
-**Day 13: General Review / Full Stack App**
+**Day 13: Testing/Heroku**
 
 **Day 14 - Day 18: Project Building**
 
