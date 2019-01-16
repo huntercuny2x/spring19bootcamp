@@ -159,6 +159,11 @@ _Suggested Pre-reading_
 
 **Day 11: Posgres/Sequelize**
 
+- [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
+
+- [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
+
+
 **Day 12: Sequelize/Auth**
 
 - Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
