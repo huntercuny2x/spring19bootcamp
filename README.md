@@ -171,11 +171,11 @@ _Suggested Pre-reading_
 
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
-**Day 12: Testing**
+**Day 12: Webpack/Babel**
 
 - Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
 
-**Day 13: General Review / Full Stack App**
+**Day 13: Testing/Heroku**
 
 **Day 14 - Day 18: Project Building**
 
