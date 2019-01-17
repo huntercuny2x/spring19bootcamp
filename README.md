@@ -187,6 +187,12 @@ _Suggested Pre-reading_
 
 **Day 13: Testing/Heroku**
 
+- [Redux Middleware slides](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing)
+
+- [Thunk Middleware slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing)
+
+- [Jasmine Testing slides](https://drive.google.com/file/d/1G9TmoeXEzO2zUZLjYf22nwTx5qWNz2Zd/view?usp=sharing)
+
 **Day 14 - Day 18: Project Building**
 
 **Day 14 (1/18/2018)**
