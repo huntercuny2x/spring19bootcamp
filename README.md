@@ -22,9 +22,56 @@ Daily Schedule (subject to change!)
 
 3:00PM - 4:00PM: Independent work using internship stack
 
-## Schedule
+---
 
-**Day 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (01/02/2019)**
+## Curriculum Index
+
+[Class Session 1:
+Collaborative Workflow | (01/02/2019)](https://github.com/huntercuny2x/spring19bootcamp/#onboarding)
+
+[Class Session 2: JavaScript Basics and Advanced JS Topics | (01/03/2019)](https://github.com/huntercuny2x/spring19bootcamp/#advanced-js-topics)
+
+[Class Session 3: JavaScript DOM Manipulation and Chrome Dev Tools | (01/04/2019)](https://github.com/huntercuny2x/spring19bootcamp/#javascript-dom-manipulation)
+
+[Class Session 4: Introduction to React and React Components |  (01/07/2019)](https://github.com/huntercuny2x/spring19bootcamp/#introduction-to-react)
+
+[Class Session 5: External API Requests (AJAX/Fetch) | (01/08/2019)](https://github.com/huntercuny2x/spring19bootcamp/#external-api-requests)
+
+[Class Session 6: Zip/City API Exercise - Intro to React Router | (01/09/2019)](https://github.com/huntercuny2x/spring19bootcamp/#intro-to-react-router)
+
+[Class Session 7: React Review Day | (01/10/2019)](https://github.com/huntercuny2x/spring19bootcamp/#react-review-day)
+
+[Class Session 8: Redux/React-Redux | (01/11/2019)](https://github.com/huntercuny2x/spring19bootcamp/#react-redux)
+
+[Class Session 9: Intro to Node/Express | (01/12/2019)](https://github.com/huntercuny2x/spring19bootcamp/#node/express)
+
+[Class Session 10: Express/Postgres | (01/14/2019)](https://github.com/huntercuny2x/spring19bootcamp/#express/#postgres)
+
+[Class Session 11: Postgres/Sequelize | (01/15/2019)](https://github.com/huntercuny2x/spring19bootcamp/#postgres/sequelize)
+
+[Class Session 12: Sequelize/Auth | (01/16/2019)](https://github.com/huntercuny2x/spring19bootcamp/#sequelize/auth)
+
+[Class Session 12: Webpack/Babel | (01/16/2019)](https://github.com/huntercuny2x/spring19bootcamp/#webpack/babel)
+
+[Class Session 13: Testing/Heroku/Recap | (01/17/2019)](https://github.com/huntercuny2x/spring19bootcamp/#testing/heroku/recap)
+
+Class Session 14: Project Building | (01/18/2019)
+
+Class Session 15: Project Building | (01/19/2019)
+
+Class Session 16: Project Building | (01/21/2019)
+
+Class Session 17: Project Building | (01/22/2019)
+
+Class Session 18: Project Building | (01/23/2019)
+
+Class Session 19: Presentations | (01/24/2019)
+
+---
+
+## Curriculum
+
+**Class Session 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (01/02/2019)**
 
 - [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
 
@@ -38,7 +85,7 @@ Daily Schedule (subject to change!)
 
 - [Collaboration Workshop Assignment](https://docs.google.com/document/d/1K94PRD-EN19PtFY7T7ao0JZ0cyKkAlMEjMZ8_VyfTNk/edit?usp=sharing)
 
-**Day 2: Javascript Basics Overview, Advanced JS Topics (01/03/2019)**
+**Class Session 2: Javascript Basics Overview, Advanced JS Topics (01/03/2019)**
 
  _Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more difficult topics that we will be covering)_
 
@@ -54,7 +101,7 @@ Daily Schedule (subject to change!)
 
 - [Assignment #2](https://docs.google.com/document/d/1EezLzZk3OmCEF6GICIngtiU1NggznZtyYA4bsqjg5fo/edit#heading=h.oooip3m3scyd)
 
-**Day 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging) (01/04/2019)**
+**Class Session 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging) (01/04/2019)**
 
 _Suggested Pre-reading_
 
@@ -68,7 +115,7 @@ _Suggested Pre-reading_
 
 - [DOM / JS Assignment #3](https://drive.google.com/drive/u/0/my-drive)
 
-**Day 4: Intro to React/React Components (01/07/2019)**
+**Class Session 4: Intro to React/React Components (01/07/2019)**
 
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) => _Required Reading this weekend_
 
@@ -88,7 +135,7 @@ _Suggested Pre-reading_
 
 - [Assignment #4: Contact Card and Decrement](https://docs.google.com/document/d/1oU4kDA9WtbauADOgWV-2EZPPV-SirW1p2RTWsWMZxh8/edit?usp=sharing)
 
-**Day 5: Continuing React: External API Requests (AJAX/Fetch) (01/08/2019)**
+**Class Session 5: Continuing React: External API Requests (AJAX/Fetch) (01/08/2019)**
 
 - [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html) _Suggested Reading_
 
@@ -111,17 +158,17 @@ _Suggested Pre-reading_
  - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
 
 
-**Day 6: Zip/City API Exercise - Intro to React Router (01/09/2019)**
+**Class Session 6: Zip/City API Exercise - Intro to React Router (01/09/2019)**
 
 - [Zip/City API Exercise](https://gist.github.com/johnnybee4e/4cb228365742aaf50e8ff51728cd9c4b)
 
 - [React Router Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-**Day 7: REACT REVIEW DAY (01/10/2019)**
+**Class Session 7: REACT REVIEW DAY (01/10/2019)**
 
 - [GIPHY API Assignment](https://gist.github.com/johnnybee4e/9cc6d702f8771a7909b6ad97a79ef60b)
 
-**Day 8: Redux/React-Redux (01/11/2019)**
+**Class Session 8: Redux/React-Redux (01/11/2019)**
 
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux) <= _Excellent tutorial_
 
@@ -129,7 +176,7 @@ _Suggested Pre-reading_
 
 - [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
 
-**Day 9: Intro to Node/Express (01/12/2019)**
+**Class Session 9: Intro to Node/Express (01/12/2019)**
 
 - [Intro to Node slides](https://drive.google.com/file/d/1C9unBMKGkQSTRIJxp57Djne49t_GJDyk/view?usp=sharing)
 
@@ -145,9 +192,9 @@ _Suggested Pre-reading_
 
 - [NodeJS: Module Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/) <= _Main Takeaway: A deeper understanding of Node's module system_
 
-- [JavaScript Conference 2018: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
+- [JavaScript Conference 2019: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
 
-**Day 10: Express/Postgres (01/14/2019)**
+**Class Session 10: Express/Postgres (01/14/2019)**
 
 - Lecture Slides:
 
@@ -165,19 +212,19 @@ _Suggested Pre-reading_
 
 - [SQLZoo Tutorial](https://sqlzoo.net/)
 
-**Day 11: Posgres/Sequelize (01/15/2019)**
+**Class Session 11: Postgres/Sequelize (01/15/2019)**
 
 - [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
 
 - [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
 
 
-**Day 12: Sequelize/Auth (01/16/2019)**
+**Class Session 12: Sequelize/Auth (01/16/2019)**
 - [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
 
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
-**Day 12: Webpack/Babel (01/16/2019)**
+**Class Session 12: Webpack/Babel (01/16/2019)**
 
 - Workshop 1-3pm, _How to ask questions of your technical supervisor,_ hosted by __Peggy Segal__
 
@@ -185,7 +232,7 @@ _Suggested Pre-reading_
 
 - [Webpack/Babel assignment](https://gist.github.com/johnnybee4e/f6bbd3af290b8e0c131b387446ed8a51)
 
-**Day 13: Testing/Heroku/Recap (01/17/2019)**
+**Class Session 13: Testing/Heroku/Recap (01/17/2019)**
 
 - [Redux Middleware slides](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing)
 
@@ -210,21 +257,22 @@ _Suggested Pre-reading_
 
 ---
 
-**Day 14 (01/18/2018)**
+**Class Session 14 (01/18/2019)**
 
 - Workshop 10:00AM, _Technical Presentations,_ hosted by __Jason Wong__
 - Project Building
 
-**Day 15 (01/19/2018)**
+**Class Session 15 (01/19/2019)**
 - Project Building
 
-**Day 16 (01/21/2018)**
+**Class Session 16 (01/21/2019)**
 - Project Building
 
-**Day 17 (01/22/2018)**
+**Class Session 17 (01/22/2019)**
 - Project Building
 
-**Day 18 (01/23/2018)**
+**Class Session 18 (01/23/2019)**
 - Project Building
 
-**Day 19: Project Deployment, Student presentations 2:00PM - 4:00PM (Room TBD)**
+**Class Session 19: Project Deployment, Student Presentations 2:00PM - 4:00PM (01/24/2019)**
+  - Room is To Be Determined
