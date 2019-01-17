@@ -185,13 +185,27 @@ _Suggested Pre-reading_
 
 - [Webpack/Babel assignment](https://gist.github.com/johnnybee4e/f6bbd3af290b8e0c131b387446ed8a51)
 
-**Day 13: Testing/Heroku**
+**Day 13: Testing/Heroku/Recap**
 
 - [Redux Middleware slides](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing)
 
 - [Thunk Middleware slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing)
 
+- [What Thunks Are, What They Solve, and Other Options](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
+
+- [Redeux](https://github.com/ajLapid718/Redeux)
+
+  - A repository with different branches containing code that briefly goes over Redux-Thunks, Redux-Saga, Redux-Loop, Redux-Promise, and Redux-Observable
+  - Also a valuable resource to review barrel files, code splitting and organization, combineReducers(), and Redux middleware such as redux-logger
+
 - [Jasmine Testing slides](https://drive.google.com/file/d/1G9TmoeXEzO2zUZLjYf22nwTx5qWNz2Zd/view?usp=sharing)
+
+- [Unit Tests Involving A Few Algorithms](https://github.com/ajLapid718/developmentDrivenTests)
+
+  - A repository containing solutions and tests for for three algorithms
+  - Utilizes Mocha, Chai, and Sinon
+
+- [React Testing With Enzyme and Jest](https://medium.com/@jon.rosado42/tools-of-the-trade-react-testing-with-enzyme-and-jest-c70ba40f69a9)
 
 **Day 14 - Day 18: Project Building**
 
