@@ -26,50 +26,58 @@ Daily Schedule (subject to change!)
 
 ## Curriculum Index
 
-[Class Session 1:
-Collaborative Workflow | (01/02/2019)](https://github.com/huntercuny2x/spring19bootcamp/#onboarding)
+- Pre-Bootcamp Material
 
-[Class Session 2: JavaScript Basics and Advanced JS Topics | (01/03/2019)](https://github.com/huntercuny2x/spring19bootcamp/#advanced-js-topics)
+- Class Session 1:
+Collaborative Workflow | (01/02/2019)
 
-[Class Session 3: JavaScript DOM Manipulation and Chrome Dev Tools | (01/04/2019)](https://github.com/huntercuny2x/spring19bootcamp/#javascript-dom-manipulation)
+- Class Session 2: JavaScript Basics and Advanced JS Topics | (01/03/2019)
 
-[Class Session 4: Introduction to React and React Components |  (01/07/2019)](https://github.com/huntercuny2x/spring19bootcamp/#introduction-to-react)
+- Class Session 3: JavaScript DOM Manipulation and Chrome Dev Tools | (01/04/2019)
 
-[Class Session 5: External API Requests (AJAX/Fetch) | (01/08/2019)](https://github.com/huntercuny2x/spring19bootcamp/#external-api-requests)
+- Class Session 4: Introduction to React and React Components | (01/07/2019)
 
-[Class Session 6: Zip/City API Exercise - Intro to React Router | (01/09/2019)](https://github.com/huntercuny2x/spring19bootcamp/#intro-to-react-router)
+- Class Session 5: External API Requests (AJAX/Fetch) | (01/08/2019)
 
-[Class Session 7: React Review Day | (01/10/2019)](https://github.com/huntercuny2x/spring19bootcamp/#react-review-day)
+- Class Session 6: Zip/City API Exercise and Intro to React Router | (01/09/2019)
 
-[Class Session 8: Redux/React-Redux | (01/11/2019)](https://github.com/huntercuny2x/spring19bootcamp/#react-redux)
+- Class Session 7: React Review Day | (01/10/2019)
 
-[Class Session 9: Intro to Node/Express | (01/12/2019)](https://github.com/huntercuny2x/spring19bootcamp/#node/express)
+- Class Session 8: Redux/React-Redux | (01/11/2019)
 
-[Class Session 10: Express/Postgres | (01/14/2019)](https://github.com/huntercuny2x/spring19bootcamp/#express/#postgres)
+- Class Session 9: Introduction to Node/Express | (01/12/2019)
 
-[Class Session 11: Postgres/Sequelize | (01/15/2019)](https://github.com/huntercuny2x/spring19bootcamp/#postgres/sequelize)
+- Class Session 10: Express/Postgres | (01/14/2019)
 
-[Class Session 12: Sequelize/Auth | (01/16/2019)](https://github.com/huntercuny2x/spring19bootcamp/#sequelize/auth)
+- Class Session 11: Postgres/Sequelize | (01/15/2019)
 
-[Class Session 12: Webpack/Babel | (01/16/2019)](https://github.com/huntercuny2x/spring19bootcamp/#webpack/babel)
+- Class Session 12: Sequelize/Auth | (01/16/2019)
 
-[Class Session 13: Testing/Heroku/Recap | (01/17/2019)](https://github.com/huntercuny2x/spring19bootcamp/#testing/heroku/recap)
+- Class Session 12: Webpack/Babel | (01/16/2019)
 
-Class Session 14: Project Building | (01/18/2019)
+- Class Session 13: Testing/Heroku/Recap | (01/17/2019)
 
-Class Session 15: Project Building | (01/19/2019)
+- Class Session 14: Project Building | (01/18/2019)
 
-Class Session 16: Project Building | (01/21/2019)
+- Class Session 15: Project Building | (01/19/2019)
 
-Class Session 17: Project Building | (01/22/2019)
+- Class Session 16: Project Building | (01/21/2019)
 
-Class Session 18: Project Building | (01/23/2019)
+- Class Session 17: Project Building | (01/22/2019)
 
-Class Session 19: Presentations | (01/24/2019)
+- Class Session 18: Project Building | (01/23/2019)
+
+- Class Session 19: Presentations | (01/24/2019)
 
 ---
 
 ## Curriculum
+
+**Pre-Bootcamp Material**
+
+- [CSS Diner Exercise](https://flukeout.github.io/)
+- [Flexbox Froggy Exercise](https://flexboxfroggy.com/)
+- [Flexbox Zombies Exercise](https://mastery.games/p/flexbox-zombies)
 
 **Class Session 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (01/02/2019)**
 
