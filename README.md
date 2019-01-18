@@ -262,6 +262,7 @@ _Suggested Pre-reading_
 
 - [React Testing With Enzyme and Jest](https://medium.com/@jon.rosado42/tools-of-the-trade-react-testing-with-enzyme-and-jest-c70ba40f69a9)
 
+- [Heroku slides](https://drive.google.com/file/d/1cM6pkULKq8K0H0F0djLI-G_KSQ5_EdqV/view?usp=sharing)
 
 ---
 
