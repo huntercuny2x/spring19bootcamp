@@ -271,6 +271,15 @@ _Suggested Pre-reading_
 - Workshop 10:00AM, _Technical Presentations,_ hosted by __Jason Wong__
 - Project Building
 
+- [Intro to user Authentication slides](https://drive.google.com/file/d/1exeS0pLKzCM31dAJ6EYmipEdfuQyqo9o/view?usp=sharing)
+- [Cookies slides](https://drive.google.com/file/d/1g_xN-HvAjyN5b6Qy4QpYt75ZmFWMzs2K/view?usp=sharing)
+- [Passport slides](https://drive.google.com/file/d/1kA9KzgovUG-wyH72BVBSaqX4-S4uY_dg/view?usp=sharing)
+
+-
+- [Passport.js tutorial](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
+
+
+
 **Class Session 15 (01/19/2019)**
 - Project Building
 
