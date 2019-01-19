@@ -273,9 +273,7 @@ _Suggested Pre-reading_
 
 - [Intro to user Authentication slides](https://drive.google.com/file/d/1exeS0pLKzCM31dAJ6EYmipEdfuQyqo9o/view?usp=sharing)
 - [Cookies slides](https://drive.google.com/file/d/1g_xN-HvAjyN5b6Qy4QpYt75ZmFWMzs2K/view?usp=sharing)
-- [Passport slides](https://drive.google.com/file/d/1kA9KzgovUG-wyH72BVBSaqX4-S4uY_dg/view?usp=sharing)
-
--
+- [Passport/JSWT slides](https://drive.google.com/file/d/1kA9KzgovUG-wyH72BVBSaqX4-S4uY_dg/view?usp=sharing)
 - [Passport.js tutorial](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
 
 
