@@ -269,6 +269,9 @@ _Suggested Pre-reading_
 **Class Session 14 (01/18/2019)**
 
 - Workshop 10:00AM, _Technical Presentations,_ hosted by __Jason Wong__
+
+ - [Tech Presentations Slide deck](https://drive.google.com/file/d/0B1pCHX00YEOUZVdUVnp0aktQRGtyMVdLOHRsY0o4Q1g0Y3o0/view?usp=sharing)
+
 - Project Building
 
 - [Intro to user Authentication slides](https://drive.google.com/file/d/1exeS0pLKzCM31dAJ6EYmipEdfuQyqo9o/view?usp=sharing)
